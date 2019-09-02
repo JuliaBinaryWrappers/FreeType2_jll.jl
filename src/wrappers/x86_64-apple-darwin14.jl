@@ -11,7 +11,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libfreetype`
-const libfreetype_splitpath = ["lib", "libfreetype.6.16.0.dylib"]
+const libfreetype_splitpath = ["lib", "libfreetype.6.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libfreetype_path = ""
