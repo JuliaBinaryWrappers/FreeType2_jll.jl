@@ -12,4 +12,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Bzip2_jll = "1.0.7"
+Bzip2_jll = "1.0.8"

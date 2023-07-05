@@ -1,10 +1,10 @@
 [[FreeType2]]
 arch = "aarch64"
-git-tree-sha1 = "f755d1efad0bd58f9ad8d1df62671fb9bc4aabac"
+git-tree-sha1 = "c65e07e3da4f1bf519bc432389dbbd61df320457"
 os = "macos"
 
     [[FreeType2.download]]
-    sha256 = "4e86036794c5fedb46ffb1d1ede6cc121705b2eee1eab0fca3e938131d387c5e"
+    sha256 = "537cee2c03ba6d3d7047f6021cf0830f863c2916097e203574246463cf3a3118"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.aarch64-apple-darwin.tar.gz"
 [[FreeType2]]
 arch = "aarch64"
@@ -27,22 +27,22 @@ os = "linux"
 [[FreeType2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "92aa2aec7bb151b90593652a17e63d8a5aa0ead5"
+git-tree-sha1 = "968d964c9d8bd64cde745d4efa75c3a0ad2b716a"
 libc = "glibc"
 os = "linux"
 
     [[FreeType2.download]]
-    sha256 = "300a6efcb8a28e878ec09f489e7f6117f34d27c75e907679afd3ba199263fed6"
+    sha256 = "9340f1632e63bdae0c344507fd4f66462dc4f9cbc9cd7a1babf800fc06a0bb53"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.armv6l-linux-gnueabihf.tar.gz"
 [[FreeType2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8579380715fb111b406734e6ed00e4567b2f65dc"
+git-tree-sha1 = "1da108354a43b939ff2fbc6b8c1d9a7b3ccee7f4"
 libc = "musl"
 os = "linux"
 
     [[FreeType2.download]]
-    sha256 = "3f68a393ec0e7f376982acb6a3c4c6e5cb420eab757aae0562fac0f017a6b6f7"
+    sha256 = "f01e9e7969a1fd4d069843722f256f74bbe1a136cc942c0e4cb74d2965a3991d"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.armv6l-linux-musleabihf.tar.gz"
 [[FreeType2]]
 arch = "armv7l"
@@ -84,11 +84,11 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.i686-linux-musl.tar.gz"
 [[FreeType2]]
 arch = "i686"
-git-tree-sha1 = "cf7511b73dafba3540d315ad080646fa71083380"
+git-tree-sha1 = "805c9d40e537f06caecc8beb78b5694eeff4abe0"
 os = "windows"
 
     [[FreeType2.download]]
-    sha256 = "11f7c99ab0f3a257c3c8ef589b54d27978f84dbb2ac23e2a72285340bd4e5923"
+    sha256 = "1ae4856b2fd0c13c82d786c90e1d40e1a2e3436c04870e1db6715fbbca1cd5c9"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.i686-w64-mingw32.tar.gz"
 [[FreeType2]]
 arch = "powerpc64le"
@@ -101,11 +101,11 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.powerpc64le-linux-gnu.tar.gz"
 [[FreeType2]]
 arch = "x86_64"
-git-tree-sha1 = "a858467f649ba75855819f80fa0c668dce157bf8"
+git-tree-sha1 = "20698543a2b5e0bb910a56e8d969e88813ecc411"
 os = "macos"
 
     [[FreeType2.download]]
-    sha256 = "e4b0673d5e1a8bb025646fe41430d0d2aadaf80c7103b7a9c5491f7ac3f8b404"
+    sha256 = "aa7c139f3d97461ef0b51b39c4f422a014dc620fbab6d9c9dd8d4bb00b2765c2"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.x86_64-apple-darwin.tar.gz"
 [[FreeType2]]
 arch = "x86_64"
@@ -135,9 +135,9 @@ os = "freebsd"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.x86_64-unknown-freebsd.tar.gz"
 [[FreeType2]]
 arch = "x86_64"
-git-tree-sha1 = "78180dab4f341f5f0cba74255c7b433af038e47d"
+git-tree-sha1 = "92a98c9fbcb96c15be0b1621830958740a81c6cb"
 os = "windows"
 
     [[FreeType2.download]]
-    sha256 = "edfa18f4d2f78889156044ebf7f70079f6dc01e2f146dc0d4d93e331de1669a3"
+    sha256 = "94cb57cf1b32456c22e75958a953344a87a15e068a698996b15d7819374a9357"
     url = "https://github.com/JuliaBinaryWrappers/FreeType2_jll.jl/releases/download/FreeType2-v2.13.1+0/FreeType2.v2.13.1.x86_64-w64-mingw32.tar.gz"
