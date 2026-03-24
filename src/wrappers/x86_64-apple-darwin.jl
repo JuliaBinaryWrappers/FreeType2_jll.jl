@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Bzip2_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libfreetype,
-        "lib/libfreetype.6.20.6.dylib",
+        "lib/libfreetype.6.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
